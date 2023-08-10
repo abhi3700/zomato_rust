@@ -3,3 +3,9 @@
 
 # draw.io
 .$*.drawio.bkp
+
+# rust
+target/
+
+# env
+.env
